@@ -1,2 +1,8 @@
 # gzip_simple
-zlib库的运用例子
+
+
+
+
+
+
+zlib加密解密使用范例
